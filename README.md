@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm front-end developer using react
 
+- 🔭 I’m currently working on TUNiB
+- 🌱 I’m currently learning NEXT.JS,TS
+- 📫 How to reach me: csjv95@gmail.com
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csjv95&show_icons=true&theme=radical)
 <!--
